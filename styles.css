@@ -1,9 +1,17 @@
 .motivacion{
+<<<<<<< HEAD
     background-color: rgb(255, 0, 0);
+=======
+    background-color: blue;
+>>>>>>> developer
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .contenido{
+<<<<<<< HEAD
     background-color:rgb(221, 255, 72);
+=======
+    background-color:green;
+>>>>>>> developer
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
